@@ -1,9 +1,0 @@
-version: 2.2.0
-files:
-  - url: scanner-2.2.0-setup.exe
-    sha512: WZ/VYOTYwXZVibvq7xRRxGR6AbR7Ei/iVMACYnR5QLIdEmQC60kuFUbbQher7df8rWTfKx9pQTXwIMr1jff21A==
-    size: 70602223
-path: scanner-2.2.0-setup.exe
-sha512: WZ/VYOTYwXZVibvq7xRRxGR6AbR7Ei/iVMACYnR5QLIdEmQC60kuFUbbQher7df8rWTfKx9pQTXwIMr1jff21A==
-releaseDate: '2025-03-04'
-releaseNotes: "2.0.0 版本：\r\n\r\n修复网卡断连问题\r\n\r\n修复语言改变无效 bug\r\n\r\n修复无法通过防火墙问题\r\n"
